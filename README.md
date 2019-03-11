@@ -14,7 +14,7 @@ Add the package to the ```dependencies``` section of your pubspec.yaml
 ```
 dependencies:
   epub:
-    git: https://github.com/creatint/dart-epub-cn
+    git: https://github.com/yantao13145210/dart-epub
 ```
 
 ## Example
